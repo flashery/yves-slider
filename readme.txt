@@ -2,9 +2,9 @@
 
 Contributors: Yves Gonzaga
 Plugin Name:Yves Slider
-Plugin URI: http://flashery.cu.cc/
+Plugin URI: https://flashery.services/
 Tags: wp, slider, php
-Author URI: http://perishablepress.com/
+Author URI: https://flashery.services/
 Author: Perishable Press
 Requires at least: 2.3
 Tested up to: 2.9
